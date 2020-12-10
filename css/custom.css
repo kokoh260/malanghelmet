@@ -1,0 +1,27 @@
+/*============================================================================================*/
+/* Your custom styles below */
+/*============================================================================================*/
+.gambar {
+  margin-top: -5%;
+}
+
+.tombol-back {
+  display: inline-block;
+  padding: 1rem 2rem;
+  background-color: #55acee;
+  border-radius: 0.2rem;
+  color: #fff;
+  font-weight: bold;
+}
+
+@media only screen and (max-width: 600px) {
+  b-img {
+    display: none;
+  }
+}
+
+@media only screen and (max-width: 1100px) {
+  b-img {
+    display: none;
+  }
+}
